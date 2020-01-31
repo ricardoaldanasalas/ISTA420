@@ -1,0 +1,35 @@
+#Ricardo Aldana Salas
+
+### TSQL HW 2a
+
+
+1. 1Q:	1. FROM
+	2. WHERE
+	3. GROUP BY
+	4. HAVING
+	5. SELECT
+	6. ORDER BY
+
+1. 2Q:	From specigy the names of the tables you want to query and the table operators 		that operates on those tables. 
+	Where one specify the name of the table one to query.
+
+1. 3Q:	WHERE specify a predicate or logical expresssion to filter the rows returned by 	the FROM phase.
+
+1. 4Q:	GROUP BY arranges the rows returned by the previous logical query processing phase 	in a group.
+
+1. 5Q:	HAVING is row filter of group filters. Groups that returns True are returned by 	the HAVING phase to the next logical query. If false
+	HAVING discards it.
+
+1. 6Q:	SELECT specifies the attributes(columns) you want to return inthe result table of 	the query.
+
+1. 7Q:	DISTINCT provides the means to remove duplicate and returns a relational result.
+
+1. 8Q:	ORDER BY sorts the row in the output for presentation purposes. It is the last 		clause to precessed.
+
+1. 9Q:	LIMIT  is use when a large number of result satifies the query. LIMIT is used to 	set an upper limit on the number of returns.
+
+1. 10Q:	TOP clause are based on number of rows and ordering. It limits the number or 		percentage of rows the query returns. It relies on two
+	elements, the number or percentage of rows to return and the other is the 		ordering. 
+
+1. 11Q:	OFFSET-FETCH supports a skipping option unlike the TOP clasue which it doesn't. It 	is an extension to the ORDER BY clause. OFFSET 
+	lets you indicate how many rows to skip and with the FETCH how many rows to filter 	after you skip. 

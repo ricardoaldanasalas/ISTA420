@@ -1,0 +1,30 @@
+1Q:	A data type is an attribute that specifies the type of data that an object can hold. There is two types of data, regular and Unicode. Regular includes CHAR and VARCHAR and Unicode includes NCHAR and NVARCHAR. Regular uses 1 byte of store and Unicode uses 2 bytes of storage. Is use to differentiate between a single quote and to an expression that you need to specify special characters.
+
+2Q:	A collation is a property of character data that encapsulates several aspects: language support, sort order, case sensitivity, accent sensitivity and more. 
+
+3Q:	You would use the syntax NULL to strip whitespace.
+
+4Q:	Select institute FROM college, university limit 10
+
+5Q:	SELECT LEN('Barack Hussein Obama';
+
+6Q:	SELECT CHARINDEX(' ',[Name]);
+
+7Q:	Parenthesis
+	Multiplication, Division
+	Subtraction, Addition
+	NOT
+	AND
+	OR
+
+8Q:	Parenthesis
+	Multiplication, Division
+	Subtraction, Addition
+
+9Q:	The simple CASE expression compares an expression to a set of simple expressions to determine the results. The searched CASE expression evaluates a set of Boolean expression to determine the result.
+
+10Q:	REVERSE((FullName),(LastName));
+
+11Q:	SELECT SUBSTRING(FullName, 1, CHARINDEX(' ', FullName) - 1) As FirstName,
+	REVERSE(SUBSTRING(REVERSE(FullName),1, CHARINDEX(' ', REVERSE(FullName)) - 1)
+	from name. 

@@ -1,0 +1,37 @@
+Chapter 1 T-SQL Query HW
+
+Q1: declarative language is use by SQL. It requires one to specify what one wants to get and how to get it. Letting RDBMS
+	figure out the actualy physical mechanics required to process a request. It also resembles english and is logical.
+	A imperative language are commands that one writes to the computer to execute. It uses statement that change a program state.
+
+Q2: 1. Data Definition Language(DDL)
+	2. Data Manipulation Language(DML)
+	3. Data Control Language(DCL)
+	
+**Q3: Database is a database that follows strictly the relational model. database consist of storing income,contact or status. 
+
+Q4: Besides using true and false for a result of a logical expression, it can also use null meaning that it has an value but it is yet
+	unknown. For example if an employee has a phone number but the admin does not yet know that number until later.
+
+Q5: Entity integrity is the mechanism the system provides to maintain the primary keys which serves as a uniqe identifier for a row
+	in a table. SQL enforces this by  asigning a primery key to each table and having unique constrains.
+
+Q6: Referential integrity refers to the accurracy and consistency of data within a relationship that are link between at least two tables.
+	SQL enforce this by sing foreing key and primary keys.
+
+Q7: Similarity
+
+Q8: No because it violate a rule that columns should only have one value. facCreds is storing multiple values in a single columns.
+	It can be fix by breaking the values into different columns. 
+
+Q9: yes because it complies with the 1NF and becuse it tabe depends entirrely on the primary keys. Every non-functional attribute is entirely 
+	depend on the primary key.
+Q10: Yes because it follows 2NF rules and it does not have any transitive dependency, meaning that all nonkey attribute must be not be depend on
+	 other nonkey.
+
+Q11: 1. Server Name
+	 2. Ddatabase Name
+	 3. Schema Name
+	 4. Object Name
+	 
+Q12: Declarative data integrity is enforced by data integrity and procedural data integrity is enforced with codes such aswith stored procedures or triggers.
