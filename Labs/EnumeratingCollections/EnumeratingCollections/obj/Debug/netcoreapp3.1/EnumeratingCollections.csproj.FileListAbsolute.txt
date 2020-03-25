@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\bin\Debug\netcoreapp3.1\EnumeratingCollections.exe
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\bin\Debug\netcoreapp3.1\EnumeratingCollections.deps.json
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\bin\Debug\netcoreapp3.1\EnumeratingCollections.runtimeconfig.json
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\bin\Debug\netcoreapp3.1\EnumeratingCollections.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\bin\Debug\netcoreapp3.1\EnumeratingCollections.dll
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\bin\Debug\netcoreapp3.1\EnumeratingCollections.pdb
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.dll
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.pdb
+C:\Users\Admin\Desktop\ISTA420\Labs\EnumeratingCollections\EnumeratingCollections\obj\Debug\netcoreapp3.1\EnumeratingCollections.genruntimeconfig.cache
